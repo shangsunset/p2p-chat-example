@@ -1,0 +1,12 @@
+{
+  "name": "p2p-workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "license": "ISC",
+  "dependencies": {
+    "duplex-json-stream": "^1.0.1",
+    "stream-set": "^1.1.0"
+  }
+}
